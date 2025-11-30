@@ -57,7 +57,9 @@ desafios-dnc/
 - **Status:** ✅ Concluído
 
 > 📝 **MINHA DESCRIÇÃO DO DESAFIO:**
-> *Desafio em que tive que criar 2 Dashboards para um E-commerce fictício, um de vendas e um de clientes.*
+> *Desafio em que tive que criar 2 Dashboards para um E-commerce fictício, um de vendas e um de clientes. Usei IA para a criação da identidade visual dos Dashboards.
+> O Dashboard de Vendas contém informaçãoes de: Canal de Venda, Faturamento, Histórico e Quantidade de Vendas, e os seguintes filtros: Bandeira, Estado, Departamento e Canal de Venda.
+> O Da*
 
 ---
 
