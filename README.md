@@ -72,7 +72,8 @@ desafios-dnc/
 
 > 📝 **MINHA DESCRIÇÃO DO DESAFIO:**
 > *Para este desafio tive que criar 2 dashboards, um com uma visão geral e outro com uma visão detalhada, e neste desafio também criei a identidade visual dos dashboards utilizando IA.*
-> *Para*
+> Para
+> 
 
 ---
 
