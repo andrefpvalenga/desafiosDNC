@@ -1,6 +1,3 @@
-# desafiosDNC
-Repositório contendo os desafios realizados por mim para o curso 'Cientista de Dados' da escola DNC, indo desde planilhas de Excel a modelos de Machine Learning.
-
 # 📊 Desafios Escola DNC - Ciência de Dados
 
 <div align="center">
