@@ -57,13 +57,24 @@ desafios-dnc/
 - **Status:** ✅ Concluído
 
 > 📝 **MINHA DESCRIÇÃO DO DESAFIO:**
-> *Desafio em que tive que criar 2 Dashboards para um E-commerce fictício, um de vendas e um de clientes. Usei IA para a criação da identidade visual dos Dashboards.
+> *Desafio em que tive que criar 2 dashboards para um E-commerce fictício, um de vendas e um de clientes. Usei IA para a criação da identidade visual dos dashboards.
 > O Dashboard de Vendas contém informaçãoes de: Canal de Venda, Faturamento, Histórico e Quantidade de Vendas, e os seguintes filtros: Bandeira, Estado, Departamento e Canal de Venda.
 > O Dashboard de Clientes contém informações sobre: a Quantidade de Clientes, a Renda dos Clientes e a Faixa Etária dos Clientes, contendo filtros de: Renda, Faixa Etária e Estado.
 > A partir deste Dashboard é possível tirar Insights sobre qual canal de venda é o melhor a ser utilizado, qual nicho de clientes tende a comprar neste e-commerce, dentre outros valiosos para o entendimento do negócio.*
 
 ---
 
+### 📈 **Desafio 02 - Dashboard para empresa de marketing digital no Power BI**
+- **Arquivo:** `dashboard_marketing.pbix`
+- **Ferramenta:** Power BI
+- **Tipo:** Business Intelligence
+- **Status:** ✅ Concluído
+
+> 📝 **MINHA DESCRIÇÃO DO DESAFIO:**
+> *Para este desafio tive que criar 2 dashboards, um com uma visão geral e outro com uma visão detalhada, e neste desafio também criei a identidade visual dos dashboards utilizando IA.*
+> *Para*
+
+---
 
 
 ## 📈 Minha Jornada de Aprendizado
