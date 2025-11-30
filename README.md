@@ -75,7 +75,14 @@ desafios-dnc/
 
 > 📝 **MINHA DESCRIÇÃO DO DESAFIO:**
 > *Para este desafio tive que criar 2 dashboards, um com uma visão geral e outro com uma visão detalhada, e neste desafio também criei a identidade visual dos dashboards utilizando IA.
-> para* 
+> 
+> Para a Visão Geral foram utilizadas várias métricas como a Soma do Total de Visualizações, a Receita Total, Receita Média por Compra dentre outras, além dos filtros de Data, Origem, Gênero e Plataforma.
+>
+> Para a Visão Detalhada foram apresentadas as Origens dos Compradores e o quantitativo de compradores e visualizações por dia.
+>
+>  Também tomei a liberdade de fazer uma Visão Geral alternativa trocando o gráfico de barras 'Usuários X Cidade' por um gráfico de mapa.
+>
+> Através destes dashboards a empresa conseguiria tirar insights sobre qual plataforma trá mais retorno, onde estão localizados seus usuários, as origens de seus compraodres, dentre outros*
 
 ---
 
