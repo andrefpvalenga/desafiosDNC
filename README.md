@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/andrefpvalenga/desafios-dnc)
+![GitHub last commit](https://img.shields.io/github/last-commit/andrefpvalenga/desafiosDNC)
 ![GitHub repo size](https://img.shields.io/badge/repo%20size-Aguardando...-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
