@@ -122,7 +122,7 @@ graph LR
 
 <div align="center">
 
-**Desenvolvido com 💙 por [Seu Nome]**
+**Desenvolvido por André Valenga**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/andr%C3%A9-felipe-pais-valenga-5a53ab154/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrevalengadata@gmail.com)
